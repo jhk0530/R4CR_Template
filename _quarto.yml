@@ -1,19 +1,42 @@
 project:
   type: website
+  output-dir: docs
+  # change if not using github page
 
 website:
   title: "R4CR_Template"
+  favicon: img/logo.png
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    right:
+    # left also available
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Topic
+        menu: 
+          - text: A
+            href: topic/a.qmd
+          - text: ------
+          # separator
+          - text: B
+            href: topic/b.qmd
+      - text: Archive
+        href: archive.qmd
+  search: false # change true to enable search
+  page-footer: "this is footer"
+  
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: flatly # default: cosmo
+    # see https://bootswatch.com/ for more themes
+    include-before-body: js/script.html
+    include-after-body: js/script.js
+    # see console in browser's devtools 
+    css: css/styles.css
     toc: true
 
-editor: visual
+execute:
+  freeze: true
 
+editor: visual

@@ -1,9 +1,30 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image: img/computer_tokui_boy.png
+  links:
+    - icon: github
+      href: https://github.com/jhk0530
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jinhwan-kim/
+toc: false
 ---
 
-About this site
+:::{.callout-tip apperance='simple'}
+image from irasutoya
+:::
 
-```{r}
-1 + 1
-```
+
+### 💼 Work
+
+-   X company, Data Scientist
+-   R community, Core member
+-   Some group, Organizer
+
+### 🎓 Education
+
+-   C univ, Bioinformatics (PhD)
+-   B univ, computer science (MS)
+-   A univ, Statistics (BS)
+

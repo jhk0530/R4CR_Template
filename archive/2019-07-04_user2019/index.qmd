@@ -1,0 +1,24 @@
+---
+title: user2019
+description: |
+  description
+date: 2019-07-04
+author: 
+  - name: X
+image: img.jpg
+categories:
+  - R
+  - Shiny
+  - tidyverse
+  - useR
+format:
+  html:
+    css: ../../css/styles.css
+    embed-resources: true
+draft: false
+toc: false
+---
+
+## Header
+
+Contents

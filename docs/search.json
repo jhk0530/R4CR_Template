@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Tip\n\n\n\nimage from irasutoya\n\n\n\n💼 Work\n\nX company, Data Scientist\nR community, Core member\nSome group, Organizer\n\n\n\n🎓 Education\n\nC univ, Bioinformatics (PhD)\nB univ, computer science (MS)\nA univ, Statistics (BS)"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archives",
+    "section": "",
+    "text": "user2024\n\n\n\nR\n\n\nShiny\n\n\ntidyverse\n\n\nuseR\n\n\n\ndescription\n\n\n\nY\n\n\nJul 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nuser2019\n\n\n\nR\n\n\nShiny\n\n\ntidyverse\n\n\nuseR\n\n\n\ndescription\n\n\n\nX\n\n\nJul 4, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topic/a.html",
+    "href": "topic/a.html",
+    "title": "A",
+    "section": "",
+    "text": "Tip\n\n\n\n\nSome tips"
+  },
+  {
+    "objectID": "archive/2024-07-08_user2024/index.html#header",
+    "href": "archive/2024-07-08_user2024/index.html#header",
+    "title": "user2024",
+    "section": "Header",
+    "text": "Header\nContents"
+  },
+  {
+    "objectID": "archive/2019-07-04_user2019/index.html#header",
+    "href": "archive/2019-07-04_user2019/index.html#header",
+    "title": "user2019",
+    "section": "Header",
+    "text": "Header\nContents"
+  },
+  {
+    "objectID": "topic/b.html",
+    "href": "topic/b.html",
+    "title": "B",
+    "section": "",
+    "text": "Tip\n\n\n\n\nSome tips"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R4CR_Template",
+    "section": "",
+    "text": "This is a Quarto template of R4CR.\n\nHow to use this\n\nQuarto template\n\nYou can start with below command in your Rstudio’s Terminal Option / Alt + Shift + M\nquarto use template jhk0530/R4CR_Template\n\nGithub\n\nFork this repository and clone to your local machine.\nI recommend you to use Github desktop. which provide guide to fork and clone repository.\n\nChange contents as you want.\nPublish your own R4CR with github page.\n\n\n\n\nContents of template\nTemplate consisted with 5 main things.\n\nQuarto configuration (~/_quarto.yml)\n\n\nnavigation bar\nfavicon\nfooter\ntheme\nadditional html, css, js\n\n\nHome page (~/index.qmd)\n\n\nReadme, or Landing page\n\n\nAbout page (~/about.qmd)\n\n\nExplain about something common (project / team / etc.)\n\n\nTopic page (~/Topic/)\n\n\nContents with each’s slide (by Quarto Presentation)\n\n\nArchive page (~/archive/)\n\n\nList of contents as Blog\n\n\n\nContribute / Question\n\nmake issue on repository\nor if you are not familiar with github, just send me email to hwanistic@gmail.com\n\n\n\nLicense\nMIT License\n\n\n\n\n\n\nYou may want to see this\n\n\n\n\n\n\n\nVersions\n\nQuarto: 1.5.52\nR: 4.4.0"
+  }
+]

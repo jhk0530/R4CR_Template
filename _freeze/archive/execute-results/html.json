@@ -1,0 +1,17 @@
+{
+  "hash": "babb71962dbbdf54c59a88bfdeae17ce",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Archives\"\nlisting:\n  contents: archive\n  # archive folder\n  sort: \"date desc\"\n  type: grid\n  categories: unnumbered\n  sort-ui: false\n  filter-ui: false\n  image-height: 300px\ncss: archive/style.css\npage-layout: full\ntitle-block-banner: false\ntoc: false\nformat: html\ninclude-in-header: archive/script.html\n# see console in devtool in browser\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n---\n\n\n\n\n<!-- this qmd not need to contain contents -->\n\n<!-- instead, build each qmd in archive directory -->\n",
+    "supporting": [
+      "archive_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

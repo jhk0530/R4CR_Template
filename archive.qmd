@@ -1,0 +1,28 @@
+---
+title: "Archives"
+listing:
+  contents: archive
+  # archive folder
+  sort: "date desc"
+  type: grid
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: false
+  image-height: 300px
+css: archive/style.css
+page-layout: full
+title-block-banner: false
+toc: false
+format: html
+include-in-header: archive/script.html
+# see console in devtool in browser
+knitr:
+  opts_chunk: 
+    collapse: true
+execute: 
+  echo: false
+---
+
+<!-- this qmd not need to contain contents -->
+
+<!-- instead, build each qmd in archive directory -->

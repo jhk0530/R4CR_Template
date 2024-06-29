@@ -1,0 +1,24 @@
+---
+title: user2024
+description: |
+  description
+date: 2024-07-08
+author: 
+  - name: Y
+image: img.jpg
+categories:
+  - R
+  - Shiny
+  - tidyverse
+  - useR
+format:
+  html:
+    css: ../../css/styles.css
+    embed-resources: true
+draft: false
+toc: false
+---
+
+## Header
+
+Contents

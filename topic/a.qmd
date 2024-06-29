@@ -1,0 +1,13 @@
+---
+title: "A"
+format:
+  html:
+    css: ../css/styles.css
+    embed-resources: true
+---
+
+<iframe class="slide-deck" src="slide_a.html" title="title A"></iframe>
+
+::: callout-tip
+-   Some tips
+:::

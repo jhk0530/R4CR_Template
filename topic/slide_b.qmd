@@ -1,0 +1,31 @@
+---
+format: 
+  revealjs:
+    css: ../css/styles.css
+    navigation-mode: linear
+    controls-layout: edges
+    controls-back-arrows: visible
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    progress: true
+    history: true
+    hash-type: number
+    theme: default
+    code-block-background: true
+    highlight-style: github
+    code-link: false
+    code-copy: true
+    # pagetitle: "A"
+    # author-meta: "YOUR NAME"
+    # date-meta: "2024-01-01"
+    
+execute: 
+  freeze: true
+---
+
+# Title
+
+## Next slide
+
+contents
